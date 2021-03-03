@@ -14,6 +14,7 @@ Hi, I'm Bogdan Ungureanu, a passionate self-taught back-end go developer from Ro
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ubogdan&layout=compact" />
 </a>
 
+
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ubogdan&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ubogdan&badges=3&show-avatar=false"
 />
