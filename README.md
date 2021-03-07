@@ -14,9 +14,10 @@ Hi, I'm Bogdan Ungureanu, a passionate self-taught back-end go developer from Ro
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ubogdan&layout=compact" />
 </a>
 
+<br />
 
-<a href="https://docs.codersrank.io/widgets/activity-widget">
+<a href="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ubogdan&badges=3">
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ubogdan&badges=3&show-avatar=false&branding=false"
+  src="https://github.com/ubogdan/ubogdan/raw/master/codersrank-march-2021.png"
 />
 </a>
