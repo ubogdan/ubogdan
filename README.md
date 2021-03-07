@@ -13,10 +13,10 @@ Hi, I'm Bogdan Ungureanu, a passionate self-taught back-end go developer from Ro
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ubogdan&layout=compact" />
 </a>
-<!--
+
+
 <a href="https://docs.codersrank.io/widgets/activity-widget">
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ubogdan&badges=3&show-avatar=false&branding=false"
 />
 </a>
--->
