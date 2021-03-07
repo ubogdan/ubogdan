@@ -11,6 +11,6 @@ Hi, I'm Bogdan Ungureanu, a passionate self-taught back-end go developer from Ro
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ubogdan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ubogdan&layout=compact&langs_count=10" />
 </a>
 
