@@ -29,6 +29,7 @@ Hi, I'm Bogdan Ungureanu, a passionate self-taught back-end go developer from Ro
 - [github.com/ubogdan/mysql-udf-pubnub (UDF library that enables MySQL to send notifications via pubnub.com)](https://github.com/ubogdan/mysql-udf-pubnub)
 - [github.com/ubogdan/license (library for licensing programs offline)](https://github.com/ubogdan/license)
 - [github.com/ubogdan/netExtender (POC Sonic Wall SSLVPN client)](https://github.com/ubogdan/netExtender)
+- [github.com/ubogdan/go-playground (Go Code Snippets)](https://github.com/ubogdan/go-playground)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ubogdan&show_icons=true&include_all_commits=true&count_private=true" alt="Bogdan's github stats" />
