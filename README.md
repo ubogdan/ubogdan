@@ -19,7 +19,7 @@ Hi, I'm Bogdan Ungureanu, a passionate self-taught back-end go developer from Ro
 
 - :seedling: I’m currently learning DevOps culture .
 - :keyboard: I code in Go, PHP, Python, and Rust.
-- :rocket: I maintain and/or contributing to few OSS projects which you can see below...
+- :rocket: I maintain and contribute to a few OSS projects
 - :computer: I also love blogging on :link: [ubogdan.com](https://ubogdan.com)
 - :speech_balloon: Ask me about [Go](https://golang.org), [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/).
 
