@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Bogdan Ungureanu, a passionate self-taught back-end go developer from Romania.
+Hi, I'm Bogdan Ungureanu, a passionate self-taught Backend Go developer from Romania.
 
 - :seedling: I’m currently learning DevOps culture .
 - :keyboard: I code in Go, PHP, Python, and Rust.
