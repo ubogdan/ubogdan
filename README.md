@@ -31,12 +31,7 @@ Hi, I'm Bogdan Ungureanu, a passionate self-taught Backend Go developer from Rom
 - [github.com/ubogdan/netExtender (POC Sonic Wall SSLVPN client)](https://github.com/ubogdan/netExtender)
 - [github.com/ubogdan/go-playground (Go Code Snippets)](https://github.com/ubogdan/go-playground)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ubogdan&show_icons=true&include_all_commits=true&count_private=true" alt="Bogdan's github stats" />
-</a>
-
-
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ubogdan&no-frame=true"/>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ubogdan&no-frame=true" alt="Bogdan U's github stats/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
