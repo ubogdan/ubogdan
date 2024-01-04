@@ -1,7 +1,8 @@
 repo_name: ubogdan/ubogdan
 report_id: 0ce276af964397a0a8a60f1baa64ea0b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T21:46:36+00:00'
+timestamp: '2024-01-04T15:14:45+00:00'
 requested_by: ubogdan
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ubogdan/ubogdan
   detection_source: Repo Metadata
